@@ -1,3 +1,8 @@
+#### Autores
+Wadson Gurgel Sátiro
+
+Victor Lira Marques Bastos
+
 
 # Simulador de Sistema de Arquivos
 ## Metodologia
