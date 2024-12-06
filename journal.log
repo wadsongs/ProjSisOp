@@ -1,0 +1,37 @@
+=== File System Journal Initialized ===
+CREATE DIRECTORY: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir
+=== File System Journal Initialized ===
+=== File System Journal Initialized ===
+CREATE DIRECTORY: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir\subDir
+=== File System Journal Initialized ===
+=== File System Journal Initialized ===
+=== File System Journal Initialized ===
+CREATE DIRECTORY: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir
+CREATE DIRECTORY: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir\subDir
+DELETE: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir
+=== File System Journal Initialized ===
+CREATE DIRECTORY: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir
+CREATE DIRECTORY: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir\subDir
+DELETE: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir
+=== File System Journal Initialized ===
+CREATE DIRECTORY: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir
+=== File System Journal Initialized ===
+CREATE FILE: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir2
+=== File System Journal Initialized ===
+CREATE FILE: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir2.txt
+=== File System Journal Initialized ===
+CREATE FILE: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir\testDir2.txt
+=== File System Journal Initialized ===
+CREATE DIRECTORY: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir
+CREATE FILE: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir\sample.txt
+CREATE DIRECTORY: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir\subDir
+COPY: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir\sample.txt TO C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir\copy_sample.txt
+RENAME: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir\copy_sample.txt TO C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir\renamed_sample.txt
+DELETE: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir
+=== File System Journal Initialized ===
+CREATE DIRECTORY: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir
+CREATE FILE: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir\sample.txt
+CREATE DIRECTORY: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir\subDir
+COPY: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir\sample.txt TO C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir\copy_sample.txt
+RENAME: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir\copy_sample.txt TO C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir\renamed_sample.txt
+DELETE: C:\Users\ad_gu\IdeaProjects\ProjSisOp\virtual_fs\testDir
